@@ -1,0 +1,15 @@
+table.mat-table {
+  width: 100%;
+
+  tr {
+    cursor: pointer;
+  }
+
+  a {
+    color: aliceblue;
+  }
+
+  .selected {
+    background-color: #333;
+  }
+}
